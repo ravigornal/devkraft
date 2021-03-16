@@ -1,4 +1,4 @@
-# ShopTrade Take-Home Assignment
+# E-Commerce Take-Home Assignment
 ## Task
 
 E-commerce Website
